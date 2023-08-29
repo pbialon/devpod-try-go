@@ -1,22 +1,6 @@
 # Try Out Development Containers: Go
 
 [![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/pbialon/vscode-remote-try-go)
-
-A **development container** is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Dev Containers](https://aka.ms/vscode-remote/containers)**.
-
-This is a sample project that lets you try out either option in a few easy steps. We have a variety of other [vscode-remote-try-*](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories) sample projects, too.
-
-> **Note:** If you already have a Codespace or dev container, you can jump to the [Things to try](#things-to-try) section.
-
-## Setting up the development container
-
-### GitHub Codespaces
-Follow these steps to open this sample in a Codespace:
-1. Click the **Code** drop-down menu.
-2. Click on the **Codespaces** tab.
-3. Click **Create codespace on main** .
-
-For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
    
 ## Things to try
 
